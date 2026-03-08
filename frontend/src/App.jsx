@@ -19,7 +19,11 @@ function App() {
   async function reviewCode() {
     setIsLoading(true)
     try {
-      const response = await axios.post('http://localhost:3000/ai/get-review', { code })
+      // 1. Grab the Vercel URL if it exists, otherwise fallback to localhost for local testing
+      const apiUrl = import.meta.env.VITE_API_URL || 'http://localhost:3000';
+
+      // 2. Use the dynamic URL
+      const response = await axios.post(`${apiUrl}/ai/get-review`, { code })
       setReview(response.data)
     } catch (error) {
       console.error('Error reviewing code:', error)
@@ -28,7 +32,6 @@ function App() {
       setIsLoading(false)
     }
   }
-
   return (
     <>
       <div className="heading">
