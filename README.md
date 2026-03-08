@@ -1,4 +1,4 @@
-# AI-Powered Code Reviewer 🤖
+# Code-Mentor: AI-Powered Code Reviewer 🤖
 
 [![React](https://img.shields.io/badge/React-18.x-blue)](https://reactjs.org/)
 [![Node.js](https://img.shields.io/badge/Node.js-Express-green)](https://nodejs.org/)
@@ -68,8 +68,8 @@ AI-Powered-Code-Reviewer/
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/Villwin007/AI-Powered-Code-Reviewer.git
-   cd AI-Powered-Code-Reviewer
+   git clone https://github.com/arunkumarsingh-20/Code-Mentor.git
+   cd Code-Mentor
    ```
 
 2. **Backend Setup**
@@ -307,11 +307,11 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👨‍💻 Author
 
-**Dhanush Saravanan**
+**Arun Kumar Singh**
 
-- GitHub: [@Villwin007](https://github.com/Villwin007)
-- Email: [s.dhanush1106@gmail.com](mailto:s.dhanush1106@gmail.com)
-- Portfolio: [Your Portfolio/LinkedIn]
+- GitHub: [@arunkumarsingh-20](https://github.com/arunkumarsingh-20)
+- Email: [arunnsingh7609@gmail.com](mailto:arunnsingh7609@gmail.com)
+- Portfolio: [portfolio](https://portfolio-arunkumarsingh.vercel.app/)
 
 ## 🙏 Acknowledgments
 
@@ -331,7 +331,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **⭐ If you find this project helpful, please give it a star on GitHub!**
 
-For questions, support, or contributions, please open an issue or contact [s.dhanush1106@gmail.com](mailto:s.dhanush1106@gmail.com).
+For questions, support, or contributions, please open an issue or contact [arunnsingh7609@gmail.com](mailto:arunnsingh7609@gmail.com).
 
 ---
 
